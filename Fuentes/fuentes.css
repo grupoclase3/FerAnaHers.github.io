@@ -1,0 +1,16 @@
+@font-face {
+    font-family:Angeline Vintage;
+    src:url(Fuentes/Angeline_Vintage.ttf) ;
+}
+
+h1 {
+    font-family:"Angeline Vintage";
+}
+
+blockquote {
+    font-family:"Angeline Vintage";
+}
+
+footer {
+    font-family: 'Times New Roman', Times, serif;
+}
